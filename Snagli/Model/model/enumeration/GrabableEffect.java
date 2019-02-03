@@ -1,0 +1,14 @@
+package model.enumeration;
+
+public enum GrabableEffect {
+	GIVE_INVULNERABILITY,
+	GIVE_MONEY,
+	GIVE_MISSILE,
+	GIVE_FIRE,
+	GIVE_ICE,
+	GIVE_POISON,
+	GIVE_OBJECT,
+	GIVE_HEALTH,
+	GIVE_REGENERATION,
+	NONE
+}

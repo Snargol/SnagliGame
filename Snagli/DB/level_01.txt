@@ -1,0 +1,18 @@
+30
+16
+                             $|
+                     C       $|
+  GDRV                       $|
+  VRDT    $$$                $|
+  RDTG              R  T      |
+  TRDA         RRRR  T        |
+                       T      |
+          TTT          T      |
+      TTT?T      TTT   T      |
+                       T      |
+            Q    VPV  KT V    |
+GGGGGGG   GGGGG GGGGGGGTGGGGGG|
+DDDDDDDR   DJJD DDDD J T J DDD|
+SSSSSSSSR       H      T   $$$|
+SSSSSSSSSR 2    HV KK VTV     |
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS|

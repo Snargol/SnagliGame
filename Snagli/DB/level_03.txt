@@ -1,0 +1,18 @@
+30
+16
+                              |
+                              |
+                              |
+                              |
+                              |
+              Q V K           |
+              TTTTTTTTTTTTTTTT|
+              DDDDDDDD?DDDDDDD|
+              SSSSSSSSSSSSSSSS|
+      T                       |
+     TT                       |
+    TTT           GGG     TTT |
+   TTTT           GGG     TWT |
+  TTTTT           GGG     TTT |
+PTTTTTT                       |
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS|

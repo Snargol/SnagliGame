@@ -1,0 +1,21 @@
+package model.enumeration;
+
+public enum ActionSprite {
+	WAIT_FRONT,
+	WAIT_PROFIL,
+	WALK,
+	RUN,
+	JUMP_FRONT,
+	JUMP_PROFIL,
+	ACTIVE_POWER,
+	GO_DOWN_PROFIL,
+	GO_DOWN_QUICK_FRONT,
+	CLIMB_UP_BACK,
+	CLIMB_DOWN_BACK,
+	DROP_PROFIL,
+	FREEZ_FRONT,
+	BURN,
+	DEAD,
+	HURT,
+	SPLASH;
+}

@@ -1,0 +1,18 @@
+92
+16
+H                                                                                           |
+H                                                                                           |
+H                                                                                           |
+H                                                  W                                        |
+H                                                                                           |
+H         W                   l                              l                            SH|
+H       $$$$$        E        T                              T         jhi                SH|
+H     ?T?T?T?T?      X        T               R              T        jhhhi               SH|
+H   $              MMNNOO     T              RR              T        ggggg               SH|
+H                             T             RRR              T        gggZg       E       SH|
+HPl  FFFFFFFYlYYYYVVlVVVVVE l T    K kkkk  RRRRV             T    K   ggggg    KXXXXXX    SH|
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGTRRRRRRRRRRRRRRRRRRRRRR   RRRRRTSSSSSSSSSSS SSSSSSSSSSSSSSSSSH|
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDTRRRRRRRRRRRRRRRRRRRRRR   RRRRRTSSSSSSSSSSS SSSSSSSSSSSSSSSSSH|
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDTRRRRRRRRRRRRRRR$         RRRRRTSSSSSSSSSSS    $$$$$SSSSSASSSH|
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDTRRRRRRRRRRRRRRR$         RRRRRTSSSSSSSSSSS    $$$$$SSSSS SSSH|
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS|

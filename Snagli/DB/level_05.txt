@@ -1,0 +1,18 @@
+92
+16
+H                                     $                         C                           |
+H                            $                                                             A|                                                                                          |
+HTT                                          C                                        H     |
+H                                                     $$      $                 H      SSSSS|
+H                      $     H          E                                 X            $    |
+H      T              Q       X    X    X    X     XH      X      XX                        |
+H             T      X? X                                                       C           |
+H   A                                                                                       |
+H                                                                                           |
+H         E                                                                                 |
+H  P      X       Q K Q            Y Y Y Y                       F F F F F F                |
+Hbbbbbbbbbbbbbbbbccccccccccccccccccccccddddd         Hdddddeeeeeeeeeeeeeeeeeffffffffffffffff|
+HbbbbbbbbbbbbbbbbcccccccccccccccM J$$J ddddd         Hdddddeeeeeeeeeeeeeeeeeffffffffffffffff|
+HbbbbbbbbbbbbbbbbcccccccccccccccN          d         Hdddddeeeeeeeeeeeeeeeeeffffffffffffffff|
+HbbbbbbbbbbbbbbbbcccccccccccccccO  BB      d       VVHdddddeeeeeeeeeeeeeeeeeffffffffffffffff|
+Hfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff|
